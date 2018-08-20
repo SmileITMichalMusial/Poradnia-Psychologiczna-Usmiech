@@ -8,7 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>Poradnia Psychologiczna "Uśmiech"</title>
 
     <!-- Bootstrap Core CSS -->
@@ -133,17 +134,30 @@
     </div>
     <!-- /.row -->
 
+
     <table align=center cellspacing="0" id="cennik">
         <thead>
+
+        <tr id="test">
+            <td colspan="3"><input id="myInput" type="text" placeholder="Wyszukaj usługę">
+            </td>
+
+        </tr>
+
+        <tr>
+            <td colspan="3">&nbsp</td>
+        </tr>
+
         <tr>
             <th id="column-1">nazwa usługi</th>
             <th>czas trwania [min]</th>
             <th>kwota [PLN]</th>
+
         </tr>
         </thead>
         <tfoot>
         </tfoot>
-        <tbody>
+        <tbody id="myTable">
 
 
         <tr bgcolor=#33CC66>
@@ -210,7 +224,7 @@
             <td>50</td>
             <td>cena standardowa + 50zł</td>
         </tr>
-            <!-- 	pusty wiersz -->
+        <!-- 	pusty wiersz -->
         <tr>
             <td colspan="3">&nbsp</td>
         </tr>
@@ -547,6 +561,8 @@
 <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/contact_me.js"></script>
+<script src="js/search_table.js"></script>
+
 
 </body>
 
