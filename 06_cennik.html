@@ -8,7 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <title>Poradnia Psychologiczna "Uśmiech"</title>
 
     <!-- Bootstrap Core CSS -->
@@ -91,7 +92,7 @@
                     </ul>
                 </li>
 
-                </li>
+
                 <li>
                     <a href="04_wspolpraca_kariera.html">Kariera / Współpraca</a>
                 </li>
@@ -121,29 +122,36 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">
-                <center><img border="5" width=100% src="./graphics/baner.jpg" alt=""></center>
+              <img width=100% border="5" src="./graphics/baner.jpg" alt=""/>
 
             </h1>
             <ol class="breadcrumb">
                 <li><a href="index.html">Strona główna</a></li>
-                </li>
+
                 <li class="active">Cennik</li>
             </ol>
         </div>
     </div>
     <!-- /.row -->
 
+
     <table align=center cellspacing="0" id="cennik">
         <thead>
+
+        <tr id="test">
+           <td colspan="3" class="noborder_up"><input id="myInput" type="text" placeholder="Wyszukaj usługę">
+            </td>
+        </tr>
         <tr>
-            <th id="column-1">nazwa usługi</th>
-            <th>czas trwania [min]</th>
-            <th>kwota [PLN]</th>
+            <td id="column-1"><b>nazwa usługi</b></td>
+            <td><b>czas trwania [min</b>]</td>
+            <td><b>kwota [PLN]</b></td>
+
         </tr>
         </thead>
         <tfoot>
         </tfoot>
-        <tbody>
+        <tbody id="myTable">
 
 
         <tr bgcolor=#33CC66>
@@ -152,65 +160,65 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza psychologiczna</td>
             <td></td>
             <td>250</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja psychologiczna (dziecko)</td>
             <td>50</td>
             <td>130</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>sesja terapii psychologicznej (dziecko)
             </td>
             <td>50</td>
             <td>110</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja psychologiczna (dorośli)
             </td>
             <td>50</td>
             <td>130</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>sesja terapii indywidualnej z psychologiem (dorośli)
             </td>
             <td>50</td>
             <td>130</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>pierwsza konsultacja diagnostyczna w kierunku uzależnień
             </td>
             <td>50</td>
             <td>170</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>sesja terapii uzależnień
             </td>
             <td>50</td>
             <td>130</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>wizyty domowe w obrębie Warszawy
             </td>
             <td>50</td>
             <td>260</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacje psychologiczne online - Skype
             </td>
             <td>50</td>
             <td>130</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacje w języku angielskim
             </td>
             <td>50</td>
             <td>cena standardowa + 50zł</td>
         </tr>
-            <!-- 	pusty wiersz -->
+        <!-- 	pusty wiersz -->
         <tr>
             <td colspan="3">&nbsp</td>
         </tr>
@@ -220,23 +228,23 @@
             <td colspan="3"><b>mediacje / terapie: par i rodzin</b>
             </td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja</td>
             <td>90</td>
             <td>200</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>terapia</td>
             <td>90</td>
             <td>180</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>mediacje
             </td>
             <td>60</td>
             <td>180</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>porada wychowawcza / doradztwo rodzinne
             </td>
             <td>50</td>
@@ -249,22 +257,21 @@
 
 
         <tr bgcolor=#33CC66>
-            <td colspan="3"><b>logopeda<b></td>
+            <td colspan="3"><b>logopeda</b></td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza logopedyczna (1-2 spotkania)
             </td>
             <td>50 (1 spotkanie)</td>
             <td>120</td>
         </tr>
-        </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja logopedyczna
             </td>
             <td>45</td>
             <td>80</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>sesja terapii logopedycznej
             </td>
             <td>30 / 45</td>
@@ -283,17 +290,17 @@
             <td colspan="3"><b>pedagog</b>
             </td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza pedagogiczna</td>
             <td></td>
             <td>230</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja pedagogiczna</td>
             <td>50</td>
             <td>100</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>sesja terapii pedagogicznej (reedukacja) / rewalidacja
             </td>
             <td>45 / 60</td>
@@ -308,17 +315,17 @@
             <td colspan="3"><b>terapia ręki</b>
             </td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza</td>
             <td>50</td>
             <td>100</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>konsultacja</td>
             <td>45</td>
             <td>80</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>zajecia indywidualne
             </td>
             <td>45</td>
@@ -338,12 +345,12 @@
             <td colspan="3"><b>integracja sensoryczna</b>
             </td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza (3 spotkania)</td>
             <td>3 x 50</td>
             <td>320</td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>terapia</td>
             <td>50</td>
             <td>80</td>
@@ -364,7 +371,7 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>diagnoza szkolna
             </td>
             <td>3 spotkania<br>
@@ -373,7 +380,7 @@
             <td>350</td>
         </tr>
 
-        <tr>
+        <tr class="hover">
             <td>diagnoza trudności szkolnych
             </td>
             <td>
@@ -381,7 +388,7 @@
             <td>280</td>
         </tr>
 
-        <tr>
+        <tr class="hover">
             <td>badanie ryzyka dysleksji, dysgrafii, dyskalkulii
             </td>
             <td>
@@ -403,7 +410,7 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>trening umiejętności społecznych
             </td>
             <td>45
@@ -411,7 +418,7 @@
             <td>50 / dziecko</td>
         </tr>
 
-        <tr>
+        <tr class="hover">
             <td>warsztaty inteligencji emocjonalnej
             </td>
             <td>45
@@ -419,7 +426,7 @@
             <td>50 / dziecko</td>
         </tr>
 
-        <tr>
+        <tr class="hover">
             <td>warsztaty dla rodziców
             </td>
             <td>90
@@ -441,7 +448,7 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="hover">
             <td>wydanie zaświadczenia
             </td>
             <td>-
@@ -449,7 +456,7 @@
             <td>70</td>
         </tr>
 
-        <tr>
+        <tr class="hover">
             <td>wydanie opinii / diagnozy
             </td>
             <td>-
@@ -547,6 +554,8 @@
 <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/contact_me.js"></script>
+<script src="js/search_table.js"></script>
+
 
 </body>
 
