@@ -8,8 +8,8 @@
 	title="Poradnia Psychologiczna &quot;Uśmiech&quot;"
 	textColor="000000"
 	backgroundColor="FFFFFF"
-	thumbColumns="3"
-	thumbRows="5"
+	thumbColumns="5"
+	thumbRows="6"
 	galleryHeight="100%"
 
 >
@@ -97,4 +97,82 @@
 	linkTarget="_blank">
     <caption><![CDATA[]]></caption>
   </image>
+	<image imageURL="images/01_image.jpg"
+		   thumbURL="thumbs/01_thumb.jpg"
+		   linkURL="images/01_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/02_image.jpg"
+		   thumbURL="thumbs/02_thumb.jpg"
+		   linkURL="images/02_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/03_image.jpg"
+		   thumbURL="thumbs/03_thumb.jpg"
+		   linkURL="images/03_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/04_image.jpg"
+		   thumbURL="thumbs/04_thumb.jpg"
+		   linkURL="images/04_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/05_image.jpg"
+		   thumbURL="thumbs/05_thumb.jpg"
+		   linkURL="images/05_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<!--<image imageURL="images/06_image.jpg"
+		   thumbURL="thumbs/06_thumb.jpg"
+		   linkURL="images/06_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/07_image.jpg"
+		   thumbURL="thumbs/07_thumb.jpg"
+		   linkURL="images/07_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/08_image.jpg"
+		   thumbURL="thumbs/08_thumb.jpg"
+		   linkURL="images/08_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/09_image.jpg"
+		   thumbURL="thumbs/09_thumb.jpg"
+		   linkURL="images/09_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>-->
+	<image imageURL="images/10_image.jpg"
+		   thumbURL="thumbs/10_thumb.jpg"
+		   linkURL="images/10_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/11_image.jpg"
+		   thumbURL="thumbs/11_thumb.jpg"
+		   linkURL="images/11_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/12_image.jpg"
+		   thumbURL="thumbs/12_thumb.jpg"
+		   linkURL="images/12_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/13_image.jpg"
+		   thumbURL="thumbs/13_thumb.jpg"
+		   linkURL="images/13_image.jpg"
+		   linkTarget="_blank">
+		<caption><![CDATA[]]></caption>
+	</image>
 </simpleviewergallery>
