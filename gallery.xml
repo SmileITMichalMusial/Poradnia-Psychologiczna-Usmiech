@@ -127,7 +127,7 @@
 		   linkTarget="_blank">
 		<caption><![CDATA[]]></caption>
 	</image>
-	<image imageURL="images/06_image.jpg"
+	<!--<image imageURL="images/06_image.jpg"
 		   thumbURL="thumbs/06_thumb.jpg"
 		   linkURL="images/06_image.jpg"
 		   linkTarget="_blank">
@@ -150,7 +150,7 @@
 		   linkURL="images/09_image.jpg"
 		   linkTarget="_blank">
 		<caption><![CDATA[]]></caption>
-	</image>
+	</image>-->
 	<image imageURL="images/10_image.jpg"
 		   thumbURL="thumbs/10_thumb.jpg"
 		   linkURL="images/10_image.jpg"
