@@ -1,178 +1,269 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<simpleviewergallery 
+<simpleviewergallery
 
-	useFlickr="false"
-	resizeOnImport="true"
-	cropToFit="false"
-	title="Poradnia Psychologiczna &quot;Uśmiech&quot;"
-	textColor="000000"
-	backgroundColor="FFFFFF"
-	thumbColumns="5"
-	thumbRows="6"
-	galleryHeight="100%"
+        useFlickr="false"
+        resizeOnImport="true"
+        cropToFit="false"
+        title="Poradnia Psychologiczna &quot;Uśmiech&quot;"
+        textColor="000000"
+        backgroundColor="FFFFFF"
+        thumbColumns="5"
+        thumbRows="6"
+        galleryHeight="100%"
 
 >
-  <image imageURL="images/IMG_1136.JPG"
-	thumbURL="thumbs/IMG_1136.JPG"
-	linkURL="images/IMG_1136.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/IMG_1144.JPG"
-	thumbURL="thumbs/IMG_1144.JPG"
-	linkURL="images/IMG_1144.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Recepcja]]></caption>
-  </image>
-  <image imageURL="images/IMG_1135.JPG"
-	thumbURL="thumbs/IMG_1135.JPG"
-	linkURL="images/IMG_1135.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Recepcja]]></caption>
-  </image>
-  <image imageURL="images/IMG_1145.JPG"
-	thumbURL="thumbs/IMG_1145.JPG"
-	linkURL="images/IMG_1145.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Recepcja]]></caption>
-  </image>
-  <image imageURL="images/IMG_1134.JPG"
-	thumbURL="thumbs/IMG_1134.JPG"
-	linkURL="images/IMG_1134.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Recepcja]]></caption>
-  </image>
-  <image imageURL="images/IMG_1143.JPG"
-	thumbURL="thumbs/IMG_1143.JPG"
-	linkURL="images/IMG_1143.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Caption]]></caption>
-  </image>
-  <image imageURL="images/IMG_1137.JPG"
-	thumbURL="thumbs/IMG_1137.JPG"
-	linkURL="images/IMG_1137.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Integracja sensoryczna]]></caption>
-  </image>
-  <image imageURL="images/IMG_1138.JPG"
-	thumbURL="thumbs/IMG_1138.JPG"
-	linkURL="images/IMG_1138.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Integracja sensoryczna]]></caption>
-  </image>
-  <image imageURL="images/IMG_1139.JPG"
-	thumbURL="thumbs/IMG_1139.JPG"
-	linkURL="images/IMG_1139.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Integracja sensoryczna]]></caption>
-  </image>
-  <image imageURL="images/IMG_1140.JPG"
-	thumbURL="thumbs/IMG_1140.JPG"
-	linkURL="images/IMG_1140.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Psychologia]]></caption>
-  </image>
-  <image imageURL="images/IMG_1141.JPG"
-	thumbURL="thumbs/IMG_1141.JPG"
-	linkURL="images/IMG_1141.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Psychologia]]></caption>
-  </image>
-  <image imageURL="images/IMG_1142.JPG"
-	thumbURL="thumbs/IMG_1142.JPG"
-	linkURL="images/IMG_1142.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[Psychologia]]></caption>
-  </image>
-  <image imageURL="images/IMG_1147.JPG"
-	thumbURL="thumbs/IMG_1147.JPG"
-	linkURL="images/IMG_1147.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/IMG_1148.JPG"
-	thumbURL="thumbs/IMG_1148.JPG"
-	linkURL="images/IMG_1148.JPG"
-	linkTarget="_blank">
-    <caption><![CDATA[]]></caption>
-  </image>
-	<image imageURL="images/01_image.jpg"
-		   thumbURL="thumbs/01_thumb.jpg"
-		   linkURL="images/01_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/02_image.jpg"
-		   thumbURL="thumbs/02_thumb.jpg"
-		   linkURL="images/02_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/03_image.jpg"
-		   thumbURL="thumbs/03_thumb.jpg"
-		   linkURL="images/03_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/04_image.jpg"
-		   thumbURL="thumbs/04_thumb.jpg"
-		   linkURL="images/04_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/05_image.jpg"
-		   thumbURL="thumbs/05_thumb.jpg"
-		   linkURL="images/05_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<!--<image imageURL="images/06_image.jpg"
-		   thumbURL="thumbs/06_thumb.jpg"
-		   linkURL="images/06_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/07_image.jpg"
-		   thumbURL="thumbs/07_thumb.jpg"
-		   linkURL="images/07_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/08_image.jpg"
-		   thumbURL="thumbs/08_thumb.jpg"
-		   linkURL="images/08_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/09_image.jpg"
-		   thumbURL="thumbs/09_thumb.jpg"
-		   linkURL="images/09_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>-->
-	<image imageURL="images/10_image.jpg"
-		   thumbURL="thumbs/10_thumb.jpg"
-		   linkURL="images/10_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/11_image.jpg"
-		   thumbURL="thumbs/11_thumb.jpg"
-		   linkURL="images/11_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/12_image.jpg"
-		   thumbURL="thumbs/12_thumb.jpg"
-		   linkURL="images/12_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
-	<image imageURL="images/13_image.jpg"
-		   thumbURL="thumbs/13_thumb.jpg"
-		   linkURL="images/13_image.jpg"
-		   linkTarget="_blank">
-		<caption><![CDATA[]]></caption>
-	</image>
+    <image imageURL="images/01.JPG"
+           thumbURL="thumbs/01.JPG"
+           linkURL="images/01.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/02.JPG"
+           thumbURL="thumbs/02.JPG"
+           linkURL="images/02.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Recepcja]]></caption>
+    </image>
+    <image imageURL="images/03.JPG"
+           thumbURL="thumbs/03.JPG"
+           linkURL="images/03.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Recepcja]]></caption>
+    </image>
+    <image imageURL="images/04.JPG"
+           thumbURL="thumbs/04.JPG"
+           linkURL="images/04.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Recepcja]]></caption>
+    </image>
+    <image imageURL="images/05.JPG"
+           thumbURL="thumbs/05.JPG"
+           linkURL="images/05.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Recepcja]]></caption>
+    </image>
+    <image imageURL="images/06.JPG"
+           thumbURL="thumbs/06.JPG"
+           linkURL="images/06.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Caption]]></caption>
+    </image>
+    <image imageURL="images/07.JPG"
+           thumbURL="thumbs/07.JPG"
+           linkURL="images/07.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Integracja sensoryczna]]></caption>
+    </image>
+    <image imageURL="images/08.JPG"
+           thumbURL="thumbs/08.JPG"
+           linkURL="images/08.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Integracja sensoryczna]]></caption>
+    </image>
+    <image imageURL="images/09.JPG"
+           thumbURL="thumbs/09.JPG"
+           linkURL="images/09.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Integracja sensoryczna]]></caption>
+    </image>
+    <image imageURL="images/10.JPG"
+           thumbURL="thumbs/10.JPG"
+           linkURL="images/10.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Psychologia]]></caption>
+    </image>
+    <image imageURL="images/11.JPG"
+           thumbURL="thumbs/11.JPG"
+           linkURL="images/11.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Psychologia]]></caption>
+    </image>
+    <image imageURL="images/12.JPG"
+           thumbURL="thumbs/12.JPG"
+           linkURL="images/12.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[Psychologia]]></caption>
+    </image>
+    <image imageURL="images/13.JPG"
+           thumbURL="thumbs/13.JPG"
+           linkURL="images/13.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/14.JPG"
+           thumbURL="thumbs/14.JPG"
+           linkURL="images/14.JPG"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/15.jpg"
+           thumbURL="thumbs/15.jpg"
+           linkURL="images/15.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/16.jpg"
+           thumbURL="thumbs/16.jpg"
+           linkURL="images/16.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/17.jpg"
+           thumbURL="thumbs/17.jpg"
+           linkURL="images/17.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/18.jpg"
+           thumbURL="thumbs/18.jpg"
+           linkURL="images/18.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/19.jpg"
+           thumbURL="thumbs/19.jpg"
+           linkURL="images/19.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+
+    <image imageURL="images/20.jpg"
+           thumbURL="thumbs/20.jpg"
+           linkURL="images/20.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/21.jpg"
+           thumbURL="thumbs/21.jpg"
+           linkURL="images/21.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/22.jpg"
+           thumbURL="thumbs/22.jpg"
+           linkURL="images/22.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/23.jpg"
+           thumbURL="thumbs/23.jpg"
+           linkURL="images/23.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/24.jpg"
+           thumbURL="thumbs/24.jpg"
+           linkURL="images/24.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/25.jpg"
+           thumbURL="thumbs/25.jpg"
+           linkURL="images/25.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/26.jpg"
+           thumbURL="thumbs/26.jpg"
+           linkURL="images/26.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/27.jpg"
+           thumbURL="thumbs/27.jpg"
+           linkURL="images/27.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/28.jpg"
+           thumbURL="thumbs/28.jpg"
+           linkURL="images/28.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/29.jpg"
+           thumbURL="thumbs/29.jpg"
+           linkURL="images/29.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/30.jpg"
+           thumbURL="thumbs/30.jpg"
+           linkURL="images/30.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/31.jpg"
+           thumbURL="thumbs/31.jpg"
+           linkURL="images/31.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/32.jpg"
+           thumbURL="thumbs/32.jpg"
+           linkURL="images/32.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/33.jpg"
+           thumbURL="thumbs/33.jpg"
+           linkURL="images/33.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/23.jpg"
+           thumbURL="thumbs/23.jpg"
+           linkURL="images/23.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/34.jpg"
+           thumbURL="thumbs/34.jpg"
+           linkURL="images/34.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/35.jpg"
+           thumbURL="thumbs/35.jpg"
+           linkURL="images/35.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/36.jpg"
+           thumbURL="thumbs/36.jpg"
+           linkURL="images/36.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/37.jpg"
+           thumbURL="thumbs/37.jpg"
+           linkURL="images/37.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/38.jpg"
+           thumbURL="thumbs/38.jpg"
+           linkURL="images/38.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/39.jpg"
+           thumbURL="thumbs/39.jpg"
+           linkURL="images/39.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/40.jpg"
+           thumbURL="thumbs/40.jpg"
+           linkURL="images/40.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
+    <image imageURL="images/41.jpg"
+           thumbURL="thumbs/41.jpg"
+           linkURL="images/41.jpg"
+           linkTarget="_blank">
+        <caption><![CDATA[]]></caption>
+    </image>
 </simpleviewergallery>
