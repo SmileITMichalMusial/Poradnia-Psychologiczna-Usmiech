@@ -4,7 +4,6 @@
 <<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 =======
-    <mapping directory="" vcs="Git" />
->>>>>>> 62ce783bfcee38112830bb7bc64dc5529fd152ed
+
   </component>
 </project>
