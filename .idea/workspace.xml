@@ -1,48 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0bc9063-c9f2-4f95-927c-d8a460bd7cb6" name="Changes" comment="20221017">
-      <change afterPath="$PROJECT_DIR$/02_36_katarzyna_andrusikiewicz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/michal_musial_4.jpg" afterDir="false" />
+    <list default="true" id="f0bc9063-c9f2-4f95-927c-d8a460bd7cb6" name="Changes" comment="20230220">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_o_nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_o_nas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_06_marta_chroscicka.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_06_marta_chroscicka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_24_olga_korolczuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_24_olga_korolczuk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_28_aleksandra_derecka.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/02_28_aleksandra_derecka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_29_izabela_trybus.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_29_izabela_trybus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_30_aleksandra_zdziarska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_30_aleksandra_zdziarska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_31_klaudia_kaluzna.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_31_klaudia_kaluzna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_32_zofia_gryglewicz.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_32_zofia_gryglewicz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_33_michal_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_33_michal_musial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_34_agata_zadrozna.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_34_agata_zadrozna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_35_lidia_gladysz.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_35_lidia_gladysz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_03_neurofeedback_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_03_neurofeedback_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_oferta_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_oferta_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_04_terapia_reki_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_04_terapia_reki_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_10_neurofeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_10_neurofeedback.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_oferta_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_oferta_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_wspolpraca_kariera.html" beforeDir="false" afterPath="$PROJECT_DIR$/04_wspolpraca_kariera.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/05_galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_przed_wizyta.html" beforeDir="false" afterPath="$PROJECT_DIR$/08_przed_wizyta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_33_michal_musial_wys_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/02_33_michal_musial_wys_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/katarzyna_andrusikiewicz_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/katarzyna_andrusikiewicz_szer_450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/michal_musial_szer_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/michal_musial_szer_450.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +12,19 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="20230628_tus_up" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="10a36acf-4128-490a-8e90-b5989b7f8e56" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2BSBfdWz3C0uxc3dUJNttrwrMv0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -78,9 +41,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/git/Poradnia-Psychologiczna-Usmiech",
+    "last_opened_file_path": "D:/java/git/Akademia-Edukacji-Usmiech",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -88,6 +51,7 @@
       <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech" />
       <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech\old" />
     </key>
   </component>
@@ -195,7 +159,119 @@
       <option name="project" value="LOCAL" />
       <updated>1665957800065</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20220727">
+      <created>1673305870415</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673305870416</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20220727">
+      <created>1674256059293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674256059293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20220727">
+      <created>1674256252306</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674256252306</updated>
+    </task>
+    <task id="LOCAL-00015" summary="20220727">
+      <created>1674341650255</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674341650255</updated>
+    </task>
+    <task id="LOCAL-00016" summary="20220727">
+      <created>1674426042783</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674426042783</updated>
+    </task>
+    <task id="LOCAL-00017" summary="20220727">
+      <created>1676065450928</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676065450928</updated>
+    </task>
+    <task id="LOCAL-00018" summary="20220727">
+      <created>1676502923456</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676502923456</updated>
+    </task>
+    <task id="LOCAL-00019" summary="20230220">
+      <created>1676933170021</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676933170021</updated>
+    </task>
+    <task id="LOCAL-00020" summary="20230220">
+      <created>1676982255747</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982255747</updated>
+    </task>
+    <task id="LOCAL-00021" summary="20230220">
+      <created>1678050783986</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678050783987</updated>
+    </task>
+    <task id="LOCAL-00022" summary="20230220">
+      <created>1678050954396</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678050954396</updated>
+    </task>
+    <task id="LOCAL-00023" summary="20230220">
+      <created>1686003525223</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686003525223</updated>
+    </task>
+    <task id="LOCAL-00024" summary="20230220">
+      <created>1686256487154</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686256487154</updated>
+    </task>
+    <task id="LOCAL-00025" summary="20230220">
+      <created>1686521403392</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686521403392</updated>
+    </task>
+    <task id="LOCAL-00026" summary="20230220">
+      <created>1686694023503</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686694023503</updated>
+    </task>
+    <task id="LOCAL-00027" summary="20230220">
+      <created>1687989026522</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687989026522</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,12 +290,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="20220727" />
     <MESSAGE value="20220802" />
     <MESSAGE value="20220910" />
     <MESSAGE value="20220913" />
     <MESSAGE value="20221017" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221017" />
+    <MESSAGE value="20220727" />
+    <MESSAGE value="20230220" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230220" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
