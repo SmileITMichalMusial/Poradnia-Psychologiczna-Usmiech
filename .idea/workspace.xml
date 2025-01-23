@@ -2,10 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0bc9063-c9f2-4f95-927c-d8a460bd7cb6" name="Changes" comment="20230220">
-      <change afterPath="$PROJECT_DIR$/02_51_sylwia_kuzniewska.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/graphics/original/IMG_0485PL E-Legitymacja.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_o_nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_o_nas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_06_marta_chroscicka.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_06_marta_chroscicka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_24_olga_korolczuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_24_olga_korolczuk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_29_izabela_trybus.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_29_izabela_trybus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_30_aleksandra_zdziarska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_30_aleksandra_zdziarska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_31_klaudia_kaluzna.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_31_klaudia_kaluzna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_32_zofia_gryglewicz.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_32_zofia_gryglewicz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_33_michal_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_33_michal_musial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_34_agata_zadrozna.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_34_agata_zadrozna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_37_paulina_banas.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_37_paulina_banas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_39_marcel_zylka.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_39_marcel_zylka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_41_anna_bednarczyk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_41_anna_bednarczyk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_42_natalia_figat.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_42_natalia_figat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_43_zuzanna_smagala.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_43_zuzanna_smagala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_44_zuzanna_brach.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_44_zuzanna_brach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_47_wiktoria_dawidiuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_47_wiktoria_dawidiuk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_48_anna_wisniewska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_48_anna_wisniewska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_49_marta_chmielewska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_49_marta_chmielewska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_50_nina_mocior.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_50_nina_mocior.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_51_sylwia_kuzniewska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_51_sylwia_kuzniewska.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_01_03_neurofeedback_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_03_neurofeedback_dorosli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_01_oferta_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_oferta_dorosli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_10_neurofeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_10_neurofeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_11_ados_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_11_ados_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_12_asrs.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_12_asrs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_13_fizjo_do_3_rz.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_13_fizjo_do_3_rz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_02_oferta_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_oferta_dzieci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_02_tus_mlodziez.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_02_tus_mlodziez.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_05_tus_wakacje.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_05_tus_wakacje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_06_tus_mlodziez_2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_06_tus_mlodziez_2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_07_tus_dzieci_2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_07_tus_dzieci_2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_wspolpraca_kariera.html" beforeDir="false" afterPath="$PROJECT_DIR$/04_wspolpraca_kariera.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/05_galeria.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_przed_wizyta.html" beforeDir="false" afterPath="$PROJECT_DIR$/08_przed_wizyta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/02_40_gabriela_stankiewicz.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/02_40_gabriela_stankiewicz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/02_46_marta_wasilewska.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/02_46_marta_wasilewska.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pliki/~$radnia_psychologiczna_USMIECH_cennik_uslug.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
