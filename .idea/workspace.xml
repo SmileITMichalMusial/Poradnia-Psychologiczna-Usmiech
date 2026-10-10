@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0bc9063-c9f2-4f95-927c-d8a460bd7cb6" name="Changes" comment="20230220">
-      <change afterPath="$PROJECT_DIR$/02_56_aleksandra_skowron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/02_56_aleksandra_skowron_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/aleksandra_skowron_szer_450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_14_katarzyna_wojcieszynska_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_24_olga_korolczuk_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_25_agnieszka_rodek_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_33_michal_musial_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_39_marceli_zylka_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_41_anna_bednarczyk_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_47_wiktoria_dawidiuk_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_49_marta_chmielewska_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_50_nina_macior_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_53_katarzyna_sosnowska_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_54_natalia_musial_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/do_zmiany/02_55_dominika_fluksik_wys_250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/aleksandra_skowron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/aleksandra_skowron_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphics/original/aleksandra_skowron_02.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_o_nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_o_nas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_01_specjalisci_agnieszka_adamczyk_musial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_14_katarzyna_wojcieszynska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_24_olga_korolczuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_24_olga_korolczuk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_25_agnieszka_rodek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_33_michal_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_33_michal_musial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_39_marcel_zylka.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_39_marcel_zylka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_41_anna_bednarczyk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_41_anna_bednarczyk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_47_wiktoria_dawidiuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_47_wiktoria_dawidiuk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_49_marta_chmielewska.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_49_marta_chmielewska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_50_nina_mocior.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_50_nina_mocior.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_53_katarzyna_sosnowska.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/02_53_katarzyna_sosnowska.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_54_natalia_musial.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_54_natalia_musial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_55_dominika_fluksik.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_55_dominika_fluksik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_55_paulina_lukaszuk.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_55_paulina_lukaszuk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_specjalisci.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_specjalisci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_01_psychologia_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_02_mediacje_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_01_oferta_dorosli.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_01_oferta_dorosli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_01_logopedia_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_02_pedagogika_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_03_psychologia_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_07_porada_wychowawcza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_08_integracja_sensoryczna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_11_ados_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_11_ados_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_12_asrs.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_12_asrs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_13_fizjo_do_3_rz.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/03_02_13_fizjo_do_3_rz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_02_oferta_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_02_oferta_dzieci.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_01_tus_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_03_07_tus_dzieci.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_07_tus_dzieci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_03_warsztaty_grupowe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_wspolpraca_kariera.html" beforeDir="false" afterPath="$PROJECT_DIR$/04_wspolpraca_kariera.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/05_galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_cennik.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_cennik.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_przed_wizyta.html" beforeDir="false" afterPath="$PROJECT_DIR$/08_przed_wizyta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/02_14_magda_kasprowicz_wys_250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pliki/poradnia_psychologiczna_USMIECH_cennik_uslug.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/pliki/poradnia_psychologiczna_USMIECH_cennik_uslug.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="20260902_tel" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,8 +52,8 @@
       <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech\old" />
       <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech\" />
+      <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech\old" />
       <recent name="D:\java\git\Poradnia-Psychologiczna-Usmiech" />
     </key>
   </component>
@@ -139,6 +83,13 @@
       <workItem from="1663540025313" duration="290000" />
       <workItem from="1663622101613" duration="6665000" />
       <workItem from="1665954552265" duration="15000" />
+    </task>
+    <task id="LOCAL-00034" summary="20230220">
+      <created>1694816776378</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1694816776378</updated>
     </task>
     <task id="LOCAL-00035" summary="20230220">
       <created>1694816956349</created>
@@ -476,14 +427,7 @@
       <option name="project" value="LOCAL" />
       <updated>1788340230979</updated>
     </task>
-    <task id="LOCAL-00083" summary="20230220">
-      <created>1789639303020</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1789639303021</updated>
-    </task>
-    <option name="localTasksCounter" value="84" />
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
